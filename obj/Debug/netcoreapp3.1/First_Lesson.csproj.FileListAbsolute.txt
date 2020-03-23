@@ -1,0 +1,13 @@
+C:\Users\GhostX\Desktop\Aki\First_Lesson\bin\Debug\netcoreapp3.1\First_Lesson.exe
+C:\Users\GhostX\Desktop\Aki\First_Lesson\bin\Debug\netcoreapp3.1\First_Lesson.deps.json
+C:\Users\GhostX\Desktop\Aki\First_Lesson\bin\Debug\netcoreapp3.1\First_Lesson.runtimeconfig.json
+C:\Users\GhostX\Desktop\Aki\First_Lesson\bin\Debug\netcoreapp3.1\First_Lesson.runtimeconfig.dev.json
+C:\Users\GhostX\Desktop\Aki\First_Lesson\bin\Debug\netcoreapp3.1\First_Lesson.dll
+C:\Users\GhostX\Desktop\Aki\First_Lesson\bin\Debug\netcoreapp3.1\First_Lesson.pdb
+C:\Users\GhostX\Desktop\Aki\First_Lesson\obj\Debug\netcoreapp3.1\First_Lesson.csprojAssemblyReference.cache
+C:\Users\GhostX\Desktop\Aki\First_Lesson\obj\Debug\netcoreapp3.1\First_Lesson.csproj.CoreCompileInputs.cache
+C:\Users\GhostX\Desktop\Aki\First_Lesson\obj\Debug\netcoreapp3.1\First_Lesson.AssemblyInfoInputs.cache
+C:\Users\GhostX\Desktop\Aki\First_Lesson\obj\Debug\netcoreapp3.1\First_Lesson.AssemblyInfo.cs
+C:\Users\GhostX\Desktop\Aki\First_Lesson\obj\Debug\netcoreapp3.1\First_Lesson.dll
+C:\Users\GhostX\Desktop\Aki\First_Lesson\obj\Debug\netcoreapp3.1\First_Lesson.pdb
+C:\Users\GhostX\Desktop\Aki\First_Lesson\obj\Debug\netcoreapp3.1\First_Lesson.genruntimeconfig.cache
